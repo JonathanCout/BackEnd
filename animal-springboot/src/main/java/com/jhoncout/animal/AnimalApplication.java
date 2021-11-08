@@ -14,12 +14,12 @@ public class AnimalApplication {
 	}
 
 	@GetMapping
-	public String Hello(){
+	public String hello(){
 		return "EU NAO AGUENTO MAIS FILHA DA PUTAAAAAAAAAAAAAAAAAAAAAAAAA!";
 	}
 
 	@GetMapping("/consulta")
-	public String Helena(){
+	public String helena(){
 		return "EI HELENA, VAI TOMAR NO CÚ. DUDUDUDUDUDUDUM";
 	}
 

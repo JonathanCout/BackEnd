@@ -14,7 +14,7 @@ public class PacienteApplication {
 	}
 
 	@GetMapping
-	public String Hello(){
+	public String hello(){
 		return "Hello";
 	}
 }
