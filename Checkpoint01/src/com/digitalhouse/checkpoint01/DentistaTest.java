@@ -6,6 +6,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 public class DentistaTest {
+//    A criação da tabela Dentista já é realizada ao instanciar um objeto como ServidorH2
         ServidorH2 server = new ServidorH2();
 
         @BeforeEach
@@ -13,6 +14,7 @@ public class DentistaTest {
             Dentista jorge = new Dentista("123456789", "Jorge", "Martins");
             Dentista marcia = new Dentista("789456132","Marcia","Menezes");
             Dentista natalia = new Dentista("514795413", "Natália", "Queiroz");
+
             server.insert(jorge);
             server.insert(marcia);
             server.insert(natalia);
