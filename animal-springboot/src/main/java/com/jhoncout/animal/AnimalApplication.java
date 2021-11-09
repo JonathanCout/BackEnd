@@ -19,8 +19,8 @@ public class AnimalApplication {
 	}
 
 	@GetMapping("/consulta")
-	public String helena(){
-		return "EI HELENA, VAI TOMAR NO CÚ. DUDUDUDUDUDUDUM";
+	public String xablau(){
+		return "X A B L A U!";
 	}
 
 
