@@ -15,6 +15,7 @@ public class Main {
 
         Paciente paciente = new Paciente("Jonathan", "Coutinho", "234579516", LocalDate.now(),endereco);
 
+//        O codigo abaixo deve ser rodado somente uma vez, para inserir os dados na tabela Estado, descomente e depois comente-o novamente;
 //        for(Estado e: Estado.values()){
 //            servidor.insertEstado(e.toString());
 //        }
