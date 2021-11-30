@@ -1,0 +1,49 @@
+[2021-11-30 14:01:34] [ INFO ] [DentistaController:23] Dentista criado com sucesso.
+[2021-11-30 14:01:57] [ INFO ] [PacienteController:26] Paciente inserido com sucesso.
+[2021-11-30 14:02:44] [ ERROR] [PacienteController:43] Houve um erro ao buscar os Pacientes.
+[2021-11-30 14:03:55] [ ERROR] [PacienteController:43] Houve um erro ao buscar os Pacientes.
+[2021-11-30 14:05:13] [ INFO ] [PacienteController:39] Resultado da busca:
+[2021-11-30 14:05:27] [ INFO ] [DentistaController:23] Dentista criado com sucesso.
+[2021-11-30 14:05:31] [ INFO ] [PacienteController:26] Paciente inserido com sucesso.
+[2021-11-30 14:05:41] [ INFO ] [PacienteController:26] Paciente inserido com sucesso.
+[2021-11-30 14:06:14] [ ERROR] [PacienteController:43] Houve um erro ao buscar os Pacientes.
+[2021-11-30 14:06:22] [ ERROR] [EnderecoController:33] Erro ao buscar Endereos.
+[2021-11-30 14:09:34] [ INFO ] [DentistaController:22] Dentista criado com sucesso.
+[2021-11-30 14:09:37] [ INFO ] [PacienteController:25] Paciente inserido com sucesso.
+[2021-11-30 14:09:46] [ INFO ] [EnderecoController:28] Resultado da busca:
+[2021-11-30 14:09:51] [ INFO ] [PacienteController:37] Resultado da busca:
+[2021-11-30 14:09:57] [ INFO ] [DentistaController:34] Resultado da busca:
+[2021-11-30 14:10:22] [ INFO ] [ConsultaController:24] Consulta agendada.
+[2021-11-30 14:10:31] [ INFO ] [ConsultaController:48] Resultado da busca:
+[2021-11-30 14:10:31] [ ERROR] [ConsultaController:52] Erro ao buscar as consultas
+[2021-11-30 14:11:08] [ INFO ] [DentistaController:22] Dentista criado com sucesso.
+[2021-11-30 14:11:11] [ INFO ] [PacienteController:25] Paciente inserido com sucesso.
+[2021-11-30 14:11:13] [ INFO ] [ConsultaController:24] Consulta agendada.
+[2021-11-30 14:11:15] [ INFO ] [ConsultaController:48] Resultado da busca:
+[2021-11-30 14:11:16] [ ERROR] [ConsultaController:52] Erro ao buscar as consultas
+[2021-11-30 14:11:41] [ INFO ] [EnderecoController:28] Resultado da busca:
+[2021-11-30 14:11:41] [ ERROR] [EnderecoController:32] Erro ao buscar Endereos.
+[2021-11-30 14:12:15] [ INFO ] [EnderecoController:28] Resultado da busca:
+[2021-11-30 14:12:15] [ ERROR] [EnderecoController:32] Erro ao buscar Endereos.
+[2021-11-30 15:03:21] [ INFO ] [EnderecoController:28] Resultado da busca:
+[2021-11-30 15:03:28] [ INFO ] [DentistaController:22] Dentista criado com sucesso.
+[2021-11-30 15:03:35] [ INFO ] [DentistaController:34] Resultado da busca:
+[2021-11-30 15:03:41] [ INFO ] [PacienteController:25] Paciente inserido com sucesso.
+[2021-11-30 15:03:47] [ INFO ] [PacienteController:37] Resultado da busca:
+[2021-11-30 15:03:51] [ INFO ] [ConsultaController:24] Consulta agendada.
+[2021-11-30 15:03:57] [ INFO ] [ConsultaController:48] Resultado da busca:
+[2021-11-30 15:03:57] [ ERROR] [ConsultaController:52] Erro ao buscar as consultas
+[2021-11-30 15:04:05] [ INFO ] [EnderecoController:28] Resultado da busca:
+[2021-11-30 15:04:05] [ ERROR] [EnderecoController:32] Erro ao buscar Endereos.
+[2021-11-30 15:05:21] [ INFO ] [PacienteController:61] Paciente atualizado com sucesso
+[2021-11-30 15:05:21] [ ERROR] [PacienteController:65] Houve um erro ao atualizar os dados do Paciente.
+[2021-11-30 15:08:33] [ INFO ] [DentistaController:22] Dentista criado com sucesso.
+[2021-11-30 15:08:37] [ INFO ] [PacienteController:25] Paciente inserido com sucesso.
+[2021-11-30 15:08:39] [ INFO ] [ConsultaController:24] Consulta agendada.
+[2021-11-30 15:08:48] [ INFO ] [EnderecoController:28] Resultado da busca:
+[2021-11-30 15:08:56] [ INFO ] [ConsultaController:48] Resultado da busca:
+[2021-11-30 15:09:08] [ INFO ] [EnderecoController:28] Resultado da busca:
+[2021-11-30 15:09:13] [ INFO ] [PacienteController:37] Resultado da busca:
+[2021-11-30 15:09:15] [ INFO ] [PacienteController:49] Resultado da busca:
+[2021-11-30 15:09:19] [ INFO ] [PacienteController:61] Paciente atualizado com sucesso
+[2021-11-30 15:09:59] [ INFO ] [PacienteController:73] Endereço do paciente atualizado com sucesso.
